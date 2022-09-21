@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hi there 
 #### I'm 16 y.o and I frontend developer. At this moment I've learning ReactJS & Typescript. 
 Now I am creating a material library for React
 https://github.com/CDS-Solutions/UI

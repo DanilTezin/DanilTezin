@@ -26,7 +26,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
 
           # Options
-          user: awesome-doge
+          user: DanilTezin
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes

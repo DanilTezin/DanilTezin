@@ -1,5 +1,4 @@
-### Hi there 
-#### I'm 17 y.o and I frontend developer. At this moment I've learning ReactJS & Typescript. 
+
 <!-- Now I am creating a material library for React
 https://github.com/CDS-Solutions/UI
  -->
